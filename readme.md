@@ -1,4 +1,4 @@
-# Piwik plugin
+# Sitemap Plugin
 
 A plugin for [Kirby 2 CMS](http://getkirby.com) that generates an `sitemap.xml` and HTML sitemap.
 
